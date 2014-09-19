@@ -1,0 +1,10 @@
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\bin\Debug\SQLExcel.exe.config
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\bin\Debug\SQLExcel.exe
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\bin\Debug\SQLExcel.pdb
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.csprojResolveAssemblyReference.cache
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.ExportXLS.resources
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.Properties.Resources.resources
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.Senha.resources
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.csproj.GenerateResource.Cache
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.exe
+C:\Users\fabio.leardini\Desktop\Projects\SQLExcel\SQLExcel\obj\Debug\SQLExcel.pdb
